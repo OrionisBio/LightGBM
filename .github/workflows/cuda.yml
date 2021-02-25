@@ -3,7 +3,7 @@ name: CUDA Version
 on:
   push:
     branches:
-    - master
+    - graphviz
   pull_request:
     branches:
     - master
